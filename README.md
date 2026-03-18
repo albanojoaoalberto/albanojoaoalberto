@@ -1,67 +1,85 @@
 <div align="center">
-  
-# 🚀 ALBANO JOÃO ALBERTO
-### **CEO & Founder @ Albert Tech**
-*Transformando bits em negócios e código em experiências memoráveis.*
+
+# 🚀 ALBANO JOÃO ALBERTO  
+### 💼 CEO & Founder @ Albert Tech  
+#### *Engenharia, Tecnologia & Marketing em Alta Performance*
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ao.linkedin.com/in/albano-jo%C3%A3o-alberto-7ba664389)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/244946536698)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/albanoalberto0)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/17hxhmsV26/)
+<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=22&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Gestor+de+Tráfego+Pago;Criador+de+Soluções+Digitais;Construindo+o+futuro+com+código" />
+
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ao.linkedin.com/in/albano-jo%C3%A3o-alberto-7ba664389)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/244946536698)
+[![Instagram](https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/albanoalberto0)
+[![Facebook](https://img.shields.io/badge/Facebook-Conectar-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/17hxhmsV26/)
 
 </div>
 
 ---
 
-### 👤 Sobre Mim
-Sou um **Engenheiro Informático** em formação na UGS, apaixonado por resolver problemas complexos. Como responsável pela **Albert Tecnologias**, foco em unir o rigor da engenharia de software com a estratégia do marketing digital.
+## 🧠 Sobre Mim
+Sou um **Engenheiro Informático em formação**, com foco em construir soluções que geram impacto real.  
+Lidero a **Albert Tech**, onde integro **desenvolvimento de software + marketing digital** para criar negócios escaláveis.
 
-* 🌍 Localizado em: **Mbanza Kongo, Angola**
-* 🎓 Formação: **Engenharia Informática (1º Ano - UGS)**
-* 💼 Foco: **Desenvolvimento Full-Stack & Gestão de Tráfego**
+- 🌍 Localização: **Angola**
+- 🎓 Engenharia Informática (UGS)
+- 🚀 Especialidade: **Full-Stack + Tráfego Pago**
+- 💡 Missão: Transformar ideias em sistemas rentáveis
 
 ---
 
-### 🛠️ Stack de Engenharia (Core)
-Aqui está o meu arsenal técnico, organizado por domínio:
+## ⚙️ Stack Tecnológica
 
-> **Back-end & Databases**
-> `PHP` `Node.js` `Python` `C#` `C++` `C` `MySQL` `MS Access`
+### 🔹 Back-end & Dados
+`PHP` `Node.js` `Python` `C#` `C++` `MySQL`
 
-> **Front-end & UI/UX**
-> `React` `JavaScript` `Tailwind CSS` `HTML5` `CSS3` `Photoshop` `Figma`
+### 🔹 Front-end & UI
+`React` `JavaScript` `HTML5` `CSS3` `Tailwind`
+
+### 🔹 Design & Ferramentas
+`Figma` `Photoshop` `Git` `Linux` `Docker`
 
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql,nodejs,react,tailwind,js,py,cs,cpp,c,ps,figma,git,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=php,nodejs,react,js,tailwind,py,cs,cpp,mysql,figma,ps,git,docker,linux" />
 </div>
 
 ---
 
-### 💼 Professional Skills & Business
-Além do código, domino a infraestrutura e o ecossistema digital:
+## 📊 Competências Profissionais
 
-| **Infraestrutura & TI** | **Marketing & Growth** |
-| :--- | :--- |
-| ✅ Manutenção de Hardware | 🎯 Tráfego Pago (Meta & Google Ads) |
-| ✅ Redes de Computadores | 📈 Estratégia de Marketing Digital |
-| ✅ Portugol Studio (Lógica) | 💡 Consultoria Tecnológica |
-| ✅ Montagem de Software | 🚀 Gestão de Lançamentos |
+<div align="center">
+
+| 💻 Tecnologia & Infraestrutura | 📈 Marketing & Negócio |
+|------------------------------|------------------------|
+| Redes & Sistemas             | Tráfego Pago (Meta Ads) |
+| Manutenção de Hardware       | Google Ads             |
+| Lógica & Algoritmos          | Funis de Venda         |
+| Deploy & Ambientes           | Estratégia Digital     |
+
+</div>
 
 ---
 
-### 🎓 Educação & Projetos
-* **Albert Tech Academy:** Formação intensiva em tecnologias.
-* **MIC UGS:** Análise e Otimização de Acesso à Rede Wi-Fi.
-* **Web CV Gen:** Desenvolvendo ferramentas para facilitar a entrada no mercado.
+## 🚀 Projetos & Iniciativas
 
-<br>
+- 🏫 **Albert Tech Academy** → Formação tecnológica prática  
+- 📡 **MIC UGS** → Otimização de redes Wi-Fi  
+- 🌐 **Web CV Gen** → Ferramentas para empregabilidade  
+
+---
+
+## 🏆 Marca & Filosofia
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Albert_Tech-Premium_Quality-blueviolet?style=for-the-badge" />
-  <br><br>
-  <i>"O sucesso é o encontro da preparação com a oportunidade."</i>
+
+<img src="https://img.shields.io/badge/Albert%20Tech-Inovação%20Digital-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+<br><br>
+
+### ⚡ *"Disciplina constrói, consistência escala e visão transforma."*
+
 </div>
