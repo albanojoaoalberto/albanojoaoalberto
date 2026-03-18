@@ -6,7 +6,7 @@ ALBANO JOÃO ALBERTO
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=9CA3AF&size=18&center=true&vCenter=true&width=600&lines=Software+Engineering;Systems+Architecture;Full-Stack+Development;Digital+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?color=6B7280&size=18&center=true&vCenter=true&width=600&lines=Engenharia+de+Software;Arquitetura+de+Sistemas;Desenvolvimento+Full-Stack;Soluções+Digitais" />
 
 <br><br>
 
@@ -28,32 +28,38 @@ ALBANO JOÃO ALBERTO
 
 <div align="center">
 
-<!-- LANGUAGENS -->
+<!-- LINGUAGENS -->
+<p style="font-size:13px; letter-spacing:1px;">LINGUAGENS</p>
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,js,ts,go,rust,kotlin,swift,dart" />
 
 <br><br>
 
-<!-- FRONTEND / BACKEND -->
+<!-- DESENVOLVIMENTO -->
+<p style="font-size:13px; letter-spacing:1px;">DESENVOLVIMENTO</p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,tailwind,bootstrap" />
 
 <br><br>
 
 <!-- BASE DE DADOS -->
+<p style="font-size:13px; letter-spacing:1px;">BASE DE DADOS</p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,firebase" />
 
 <br><br>
 
-<!-- DEVOPS / CLOUD -->
+<!-- DEVOPS E CLOUD -->
+<p style="font-size:13px; letter-spacing:1px;">DEVOPS & CLOUD</p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,nginx,aws,azure,gcp" />
 
 <br><br>
 
-<!-- SISTEMAS / HARDWARE (representação visual) -->
-<img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,debian" />
+<!-- SISTEMAS -->
+<p style="font-size:13px; letter-spacing:1px;">SISTEMAS</p>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows" />
 
 <br><br>
 
-<!-- DESIGN / SOFTWARE -->
+<!-- FERRAMENTAS -->
+<p style="font-size:13px; letter-spacing:1px;">FERRAMENTAS</p>
 <img src="https://skillicons.dev/icons?i=figma,ps,vscode,visualstudio" />
 
 </div>
@@ -62,17 +68,6 @@ ALBANO JOÃO ALBERTO
 
 <div align="center">
 
-<!-- GITHUB STATS -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&hide_border=true&bg_color=0D1117" />
-
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSERNAME&hide_border=true&background=0D1117" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:374151&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:374151&height=90&section=footer"/>
 
 </div>
