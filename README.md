@@ -1,77 +1,67 @@
 <div align="center">
-  <br>
-  <h1>🚀 Albano João Alberto 🚀</h1>
-  <p><b>CEO da Albert Tech | Full-Stack Developer | Engenheiro Informático</b></p>
-  <p>Aprimorando o Futuro Digital com Soluções Tecnológicas de Excelência.</p>
+  
+# 🚀 ALBANO JOÃO ALBERTO
+### **CEO & Founder @ Albert Tech**
+*Transformando bits em negócios e código em experiências memoráveis.*
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ao.linkedin.com/in/albano-jo%C3%A3o-alberto-7ba664389)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/244946536698)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/albanoalberto0)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/17hxhmsV26/)
+
 </div>
 
-<hr>
+---
 
-<div align="center">
-  <h2>👨‍💻 Sobre Mim</h2>
-  <p style="max-width: 750px; line-height: 1.8; font-size: 1.1em;">
-    Estudante de Engenharia Informática e empreendedor tecnológico. Como <b>CEO da Albert Tech</b>, lidero uma equipe dedicada a entregar excelência em desenvolvimento, design e estratégias digitais. Uno engenharia à estética para criar experiências de usuário memoráveis.
-  </p>
-</div>
+### 👤 Sobre Mim
+Sou um **Engenheiro Informático** em formação na UGS, apaixonado por resolver problemas complexos. Como responsável pela **Albert Tecnologias**, foco em unir o rigor da engenharia de software com a estratégia do marketing digital.
+
+* 🌍 Localizado em: **Mbanza Kongo, Angola**
+* 🎓 Formação: **Engenharia Informática (1º Ano - UGS)**
+* 💼 Foco: **Desenvolvimento Full-Stack & Gestão de Tráfego**
+
+---
+
+### 🛠️ Stack de Engenharia (Core)
+Aqui está o meu arsenal técnico, organizado por domínio:
+
+> **Back-end & Databases**
+> `PHP` `Node.js` `Python` `C#` `C++` `C` `MySQL` `MS Access`
+
+> **Front-end & UI/UX**
+> `React` `JavaScript` `Tailwind CSS` `HTML5` `CSS3` `Photoshop` `Figma`
 
 <br>
 
 <div align="center">
-  <a href="https://ao.linkedin.com/in/albano-jo%C3%A3o-alberto-7ba664389" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://wa.me/244946536698" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://www.facebook.com/share/17hxhmsV26/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/albanoalberto0" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:albanojoaoalberto02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://skillicons.dev/icons?i=php,mysql,nodejs,react,tailwind,js,py,cs,cpp,c,ps,figma,git,docker,linux" />
 </div>
 
+---
+
+### 💼 Professional Skills & Business
+Além do código, domino a infraestrutura e o ecossistema digital:
+
+| **Infraestrutura & TI** | **Marketing & Growth** |
+| :--- | :--- |
+| ✅ Manutenção de Hardware | 🎯 Tráfego Pago (Meta & Google Ads) |
+| ✅ Redes de Computadores | 📈 Estratégia de Marketing Digital |
+| ✅ Portugol Studio (Lógica) | 💡 Consultoria Tecnológica |
+| ✅ Montagem de Software | 🚀 Gestão de Lançamentos |
+
+---
+
+### 🎓 Educação & Projetos
+* **Albert Tech Academy:** Formação intensiva em tecnologias.
+* **MIC UGS:** Análise e Otimização de Acesso à Rede Wi-Fi.
+* **Web CV Gen:** Desenvolvendo ferramentas para facilitar a entrada no mercado.
+
 <br>
-<hr>
 
 <div align="center">
-  <h2>🛠️ Stack Tecnológico Completo</h2>
-  <br>
-  
-  <p><b>🌐 Desenvolvimento e Linguagens Core</b></p>
-  <img src="https://skillicons.dev/icons?i=php,mysql,js,nodejs,react,tailwind,laravel,html,css,python,cs,cpp,c,java,dotnet" alt="Full Stack" />
-  
+  <img src="https://img.shields.io/badge/Albert_Tech-Premium_Quality-blueviolet?style=for-the-badge" />
   <br><br>
-  
-  <p><b>🔧 Ferramentas, Design e Infraestrutura</b></p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,ps,ai,figma,linux,windows,postman" alt="DevOps and Design" />
-</div>
-
-<br>
-<hr>
-
-<div align="center">
-  <h2>💼 Habilidades Profissionais & Negócios</h2>
-  <br>
-
-  <p><b>Hardware & Software Engineering</b></p>
-  <img src="https://img.shields.io/badge/HardWare-333333?style=for-the-badge&logo=data-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redes-0052CC?style=for-the-badge&logo=network-wired&logoColor=white" />
-  <img src="https://img.shields.io/badge/Acess-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white" />
-  
-  <br><br>
-
-  <p><b>Marketing Digital & Tráfego Pago</b></p>
-  <img src="https://img.shields.io/badge/Marketing-FF6600?style=for-the-badge&logo=mailchimp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tráfego_Pago-FF6600?style=for-the-badge&logo=google-ads&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vendas-34A853?style=for-the-badge&logo=googlemybusiness&logoColor=white" />
-
-  <br><br>
-
-  <p><b>Educação & Consultoria</b></p>
-  <img src="https://img.shields.io/badge/Portugol-4B0082?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Consultoria-FFD700?style=for-the-badge&logo=expert&logoColor=black" />
-</div>
-
-<br>
-<hr>
-
-<div align="center">
-  <br>
-  <h3>Vamos criar o extraordinário juntos.</h3>
-  <br>
-  <img src="https://img.shields.io/badge/Albert_Tech-2026-blueviolet?style=for-the-badge" />
+  <i>"O sucesso é o encontro da preparação com a oportunidade."</i>
 </div>
