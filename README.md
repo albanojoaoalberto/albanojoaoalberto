@@ -1,85 +1,135 @@
 <div align="center">
 
-# 🚀 ALBANO JOÃO ALBERTO  
-### 💼 CEO & Founder @ Albert Tech  
-#### *Engenharia, Tecnologia & Marketing em Alta Performance*
+<!-- HEADER COM GRADIENTE -->
+<h1 style="font-size:42px; font-weight:800; background: linear-gradient(90deg,#00C2FF,#6A0DAD,#FF0080); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+ALBANO JOÃO ALBERTO
+</h1>
+
+<h3>🚀 CEO & Founder @ Albert Tech</h3>
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=24&center=true&vCenter=true&width=700&lines=Construindo+Soluções+Digitais;Full-Stack+Developer;Especialista+em+Tráfego+Pago;Transformando+Ideias+em+Negócios" />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=22&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Gestor+de+Tráfego+Pago;Criador+de+Soluções+Digitais;Construindo+o+futuro+com+código" />
+<!-- BADGES INTERATIVOS -->
+<a href="https://ao.linkedin.com/in/albano-jo%C3%A3o-alberto-7ba664389">
+<img src="https://img.shields.io/badge/LinkedIn-Explorar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/244946536698">
+<img src="https://img.shields.io/badge/WhatsApp-Conectar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/albanoalberto0">
+<img src="https://img.shields.io/badge/Instagram-Brand-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🧠 IDENTIDADE
+
+<p align="center">
+Engenharia não é apenas código.  
+É estratégia, escala e impacto.
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ao.linkedin.com/in/albano-jo%C3%A3o-alberto-7ba664389)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/244946536698)
-[![Instagram](https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/albanoalberto0)
-[![Facebook](https://img.shields.io/badge/Facebook-Conectar-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/17hxhmsV26/)
+Atuo na interseção entre <b>tecnologia</b> e <b>negócios digitais</b>, criando sistemas que não apenas funcionam — mas <b>geram resultados</b>.
+</p>
+
+---
+
+## ⚡ CORE STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,php,js,tailwind,python,mysql,figma,git,docker,linux" />
+
+</div>
+
+<p align="center">
+
+Backend sólido, frontend moderno e integração com estratégia digital.  
+Cada tecnologia aqui resolve um problema real — não é só estética.
+
+</p>
+
+---
+
+## 🚀 O QUE EU CONSTRUO
+
+<div align="center">
+
+🔥 Sistemas Web Escaláveis  
+⚙️ Plataformas de Negócio  
+📈 Máquinas de Aquisição (Tráfego Pago)  
+🧠 Soluções Digitais Inteligentes  
 
 </div>
 
 ---
 
-## 🧠 Sobre Mim
-Sou um **Engenheiro Informático em formação**, com foco em construir soluções que geram impacto real.  
-Lidero a **Albert Tech**, onde integro **desenvolvimento de software + marketing digital** para criar negócios escaláveis.
+## 🎯 POSICIONAMENTO
 
-- 🌍 Localização: **Angola**
-- 🎓 Engenharia Informática (UGS)
-- 🚀 Especialidade: **Full-Stack + Tráfego Pago**
-- 💡 Missão: Transformar ideias em sistemas rentáveis
+<p align="center">
+
+Não sou apenas desenvolvedor.  
+Sou alguém que entende:
+
+</p>
+
+<div align="center">
+
+💡 Produto  
+💰 Monetização  
+📊 Crescimento  
+🚀 Escala  
+
+</div>
+
+<p align="center">
+
+Código sem estratégia é custo.  
+Código com estratégia é ativo.
+
+</p>
 
 ---
 
-## ⚙️ Stack Tecnológica
+## 🧬 PROJETOS
 
-### 🔹 Back-end & Dados
-`PHP` `Node.js` `Python` `C#` `C++` `MySQL`
+<p align="center">
 
-### 🔹 Front-end & UI
-`React` `JavaScript` `HTML5` `CSS3` `Tailwind`
+🟣 Albert Tech → Ecossistema de tecnologia  
+🔵 Academy → Formação prática e aplicada  
+🟢 Web CV Gen → Ferramentas para empregabilidade  
 
-### 🔹 Design & Ferramentas
-`Figma` `Photoshop` `Git` `Linux` `Docker`
+</p>
 
-<br>
+---
+
+## ⚡ EXPERIÊNCIA DIGITAL
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,nodejs,react,js,tailwind,py,cs,cpp,mysql,figma,ps,git,docker,linux" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
+
 </div>
 
 ---
 
-## 📊 Competências Profissionais
+## 🏁 FINAL
 
 <div align="center">
 
-| 💻 Tecnologia & Infraestrutura | 📈 Marketing & Negócio |
-|------------------------------|------------------------|
-| Redes & Sistemas             | Tráfego Pago (Meta Ads) |
-| Manutenção de Hardware       | Google Ads             |
-| Lógica & Algoritmos          | Funis de Venda         |
-| Deploy & Ambientes           | Estratégia Digital     |
+<h3 style="color:#00C2FF;">
+"Disciplina cria base. Consistência cria escala. Visão cria império."
+</h3>
 
-</div>
-
----
-
-## 🚀 Projetos & Iniciativas
-
-- 🏫 **Albert Tech Academy** → Formação tecnológica prática  
-- 📡 **MIC UGS** → Otimização de redes Wi-Fi  
-- 🌐 **Web CV Gen** → Ferramentas para empregabilidade  
-
----
-
-## 🏆 Marca & Filosofia
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Albert%20Tech-Inovação%20Digital-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-<br><br>
-
-### ⚡ *"Disciplina constrói, consistência escala e visão transforma."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A0DAD&height=120&section=footer"/>
 
 </div>
