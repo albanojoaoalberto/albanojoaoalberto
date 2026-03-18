@@ -1,135 +1,111 @@
 <div align="center">
 
-<!-- HEADER COM GRADIENTE -->
-<h1 style="font-size:42px; font-weight:800; background: linear-gradient(90deg,#00C2FF,#6A0DAD,#FF0080); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+<h1 style="font-size:40px; font-weight:700; letter-spacing:1px;">
 ALBANO JOÃO ALBERTO
 </h1>
 
-<h3>🚀 CEO & Founder @ Albert Tech</h3>
+<p style="font-size:18px; opacity:0.8;">
+Software Engineering • Systems • Digital Strategy
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=24&center=true&vCenter=true&width=700&lines=Construindo+Soluções+Digitais;Full-Stack+Developer;Especialista+em+Tráfego+Pago;Transformando+Ideias+em+Negócios" />
-
-<br>
-
-<!-- BADGES INTERATIVOS -->
-<a href="https://ao.linkedin.com/in/albano-jo%C3%A3o-alberto-7ba664389">
-<img src="https://img.shields.io/badge/LinkedIn-Explorar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/244946536698">
-<img src="https://img.shields.io/badge/WhatsApp-Conectar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/albanoalberto0">
-<img src="https://img.shields.io/badge/Instagram-Brand-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 🧠 IDENTIDADE
-
-<p align="center">
-Engenharia não é apenas código.  
-É estratégia, escala e impacto.
+<img src="https://readme-typing-svg.herokuapp.com?color=9CA3AF&size=20&center=true&vCenter=true&width=650&lines=Software+Engineer;Full-Stack+Development;Systems+Architecture;Digital+Growth+Engineering" />
 
 <br><br>
 
-Atuo na interseção entre <b>tecnologia</b> e <b>negócios digitais</b>, criando sistemas que não apenas funcionam — mas <b>geram resultados</b>.
-</p>
+<a href="https://ao.linkedin.com/in/albano-jo%C3%A3o-alberto-7ba664389">
+<img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="https://wa.me/244946536698">
+<img src="https://img.shields.io/badge/WhatsApp-Direct-25D366?style=flat&logo=whatsapp&logoColor=white"/>
+</a>
 
-## ⚡ CORE STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,php,js,tailwind,python,mysql,figma,git,docker,linux" />
-
-</div>
-
-<p align="center">
-
-Backend sólido, frontend moderno e integração com estratégia digital.  
-Cada tecnologia aqui resolve um problema real — não é só estética.
-
-</p>
-
----
-
-## 🚀 O QUE EU CONSTRUO
-
-<div align="center">
-
-🔥 Sistemas Web Escaláveis  
-⚙️ Plataformas de Negócio  
-📈 Máquinas de Aquisição (Tráfego Pago)  
-🧠 Soluções Digitais Inteligentes  
+<a href="https://instagram.com/albanoalberto0">
+<img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=flat&logo=instagram&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🎯 POSICIONAMENTO
+## PROFILE
 
-<p align="center">
-
-Não sou apenas desenvolvedor.  
-Sou alguém que entende:
-
-</p>
-
-<div align="center">
-
-💡 Produto  
-💰 Monetização  
-📊 Crescimento  
-🚀 Escala  
-
-</div>
-
-<p align="center">
-
-Código sem estratégia é custo.  
-Código com estratégia é ativo.
-
+<p align="center" style="max-width:700px;">
+Engineering-focused profile with emphasis on software systems, scalable architectures and digital platforms.  
+Combines software development with strategic execution in digital environments, ensuring that systems are not only functional but aligned with business objectives and growth.
 </p>
 
 ---
 
-## 🧬 PROJETOS
-
-<p align="center">
-
-🟣 Albert Tech → Ecossistema de tecnologia  
-🔵 Academy → Formação prática e aplicada  
-🟢 Web CV Gen → Ferramentas para empregabilidade  
-
-</p>
-
----
-
-## ⚡ EXPERIÊNCIA DIGITAL
+## ENGINEERING STACK
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,js,ts,go,rust,kotlin,swift,dart" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,html,css" />
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,firebase" />
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,nginx,aws,azure,gcp" />
 
 </div>
 
 ---
 
-## 🏁 FINAL
+## SYSTEMS & INFRASTRUCTURE
+
+<p align="center">
+
+Operating Systems: Linux (Ubuntu, Debian), Windows Server  
+Networking: TCP/IP, Routing, Switching, LAN/WAN configuration  
+Hardware: Assembly, diagnostics, maintenance, performance tuning  
+Cloud: AWS, Azure, Google Cloud (fundamentals and deployment)  
+DevOps: Containerization, CI/CD concepts, environment management  
+
+</p>
+
+---
+
+## SOFTWARE & DEVELOPMENT
+
+<p align="center">
+
+Application Development (Web & Desktop)  
+API Design (RESTful services)  
+Database Modeling and Optimization  
+Authentication and Security (JWT, session-based)  
+Version Control and Collaborative Development  
+
+</p>
+
+---
+
+## DIGITAL SYSTEMS
+
+<p align="center">
+
+Performance Marketing (Meta Ads, Google Ads)  
+Conversion Systems and Funnels  
+Analytics and Data-driven Optimization  
+Integration between platforms and digital services  
+
+</p>
+
+---
+
+## CURRENT DIRECTION
+
+<p align="center" style="max-width:700px;">
+
+Focused on building scalable systems, improving technical depth in distributed architectures and strengthening the intersection between engineering and digital business execution.
+
+</p>
+
+---
 
 <div align="center">
 
-<h3 style="color:#00C2FF;">
-"Disciplina cria base. Consistência cria escala. Visão cria império."
-</h3>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A0DAD&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:374151&height=100&section=footer"/>
 
 </div>
