@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 style="font-size:40px; font-weight:700;">
-ALBANO JOÃO ALBERTO
+ALBANO ALBERTO
 </h1>
 
 <br>
